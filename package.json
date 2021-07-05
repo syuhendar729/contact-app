@@ -1,0 +1,29 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "Membuat contact app sederhana",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syuhendar729/contact-app.git"
+  },
+  "keywords": [
+    "contact",
+    "app",
+    "sederhana"
+  ],
+  "author": "syuhendar729",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syuhendar729/contact-app/issues"
+  },
+  "homepage": "https://github.com/syuhendar729/contact-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "validator": "^13.6.0",
+    "yargs": "^16.2.0"
+  }
+}
